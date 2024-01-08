@@ -1,10 +1,10 @@
 # alarm test case
 
-Alarm App Test Case Stockbit
+Alarm App Test Case
 
 ## Getting Started
 
-This project is a test case stockbit.
+This project is a test case.
 
 A few resources i use for this project:
 
